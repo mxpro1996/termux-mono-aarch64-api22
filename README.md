@@ -1,5 +1,9 @@
 # termux-mono-aarch64-api22
 
+Fork from https://github.com/IanusInferus/termux-mono
+
+##Tips
+
 -AOT cache
 
 cd /data/data/com.termux/files/usr/local/lib/mono/4.5
