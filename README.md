@@ -13,4 +13,4 @@ mono --aot System.Reflection.Metadata.dll
 
 -profile
 
-export PATH=/data/data/com.termux/files/usr/local/bin:$PATH
+echo export PATH=/data/data/com.termux/files/usr/local/bin:$PATH >> ~/.bash_profile
