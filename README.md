@@ -1,5 +1,5 @@
 # termux-mono-aarch64-api22
-https://github.com/IanusInferus/termux-mono
+See https://github.com/IanusInferus/termux-mono for details.
 ## Installation
 ```consloe
 # Deploy
